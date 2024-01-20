@@ -1,5 +1,9 @@
 Ember Best Practices
-====================
+
++ https://docs.google.com/presentation/d/1ZkFy4JEG8II7OK_rNLGI8M83jjqWFLkJUmKsr4tSY5I/
++ https://github.com/gtechsltn/awesome-ember/
++ https://github.com/gtechsltn/ember-best-practices/
++ https://github.com/gtechsltn/awesome-cheatsheets/blob/master/frontend/ember.js
 
 # Ember Philosophies, the "Ember Way"
 
