@@ -1,4 +1,4 @@
-Ember Best Practices
+# Ember Best Practices
 
 + https://docs.google.com/presentation/d/1ZkFy4JEG8II7OK_rNLGI8M83jjqWFLkJUmKsr4tSY5I/
 + https://github.com/gtechsltn/awesome-ember/
